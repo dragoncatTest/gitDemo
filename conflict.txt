@@ -1,2 +1,16 @@
 this file will be conflicted
-the second line
+not conflicted
+not conflicted
+not conflicted
+not conflicted
+not conflicted
+conflicted
+conflicted
+conflicted
+conflicted
+conflicted
+conflicted
+conflicted
+conflicted
+
+
